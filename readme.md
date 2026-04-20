@@ -91,3 +91,5 @@ Note on Antivirus: > Since the executable is not digitally signed,
  Windows Defender or other antivirus software may flag it as a "False Positive".
  Solution: Add the program folder to your antivirus exclusions or click 
  "Run anyway" in the Windows SmartScreen popup.
+
+ [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=S4AH7LV44BT9N)
