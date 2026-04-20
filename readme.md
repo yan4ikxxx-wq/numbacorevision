@@ -3,6 +3,7 @@
 оптимизированная для работы в условиях сложного освещения. 
 Использует компьютерное зрение и высокопроизводительные вычисления на Numba.
 
+"Enjoying this project? Buy me a coffee 🚀"
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=S4AH7LV44BT9N)
 
 [English version below](#english)
@@ -94,4 +95,6 @@ Note on Antivirus: > Since the executable is not digitally signed,
  Solution: Add the program folder to your antivirus exclusions or click 
  "Run anyway" in the Windows SmartScreen popup.
 
+
+"Enjoying this project? Buy me a coffee 🚀"
  [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=S4AH7LV44BT9N)
