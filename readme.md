@@ -3,6 +3,8 @@
 оптимизированная для работы в условиях сложного освещения. 
 Использует компьютерное зрение и высокопроизводительные вычисления на Numba.
 
+---
+
 "Enjoying this project? Buy me a coffee 🚀"
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=S4AH7LV44BT9N)
 
