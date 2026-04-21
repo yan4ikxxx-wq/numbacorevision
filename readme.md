@@ -21,7 +21,6 @@
 ### Требования
 - ОС: Windows 8.1/10/11
 - Веб-камера (рекомендуется 30+ FPS)
-- Python 3.9+
 
 ### Управление
 1. **MOUSE:** Управление курсором (запястье — ведущая точка). Клик — сведение большого и указательного пальцев.
@@ -61,7 +60,6 @@
 ### Requirements
 - OS: Windows 8.1/10/11
 - Webcam (30+ FPS recommended)
-- Python 3.9+
 
 ### Controls
 1. **MOUSE:** Cursor control (Wrist-based). Pinch thumb and index finger to click.
