@@ -11,7 +11,8 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=S4AH7LV44BT9N)
 
 [English version below](#english)
-
+Support the project! Give it a ⭐ if you find it useful.
+[![Star on GitHub](https://img.shields.io/github/stars/yan4ikxxx-wq/numbacorevision?style=social)](https://github.com/yan4ikxxx-wq/numbacorevision)
 ---
 
 ## Особенности (RU) 🇷🇺
