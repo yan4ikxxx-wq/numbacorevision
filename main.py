@@ -59,7 +59,7 @@ cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
 
-WIN_NAME = "BIO-SYSTEM PRO"
+WIN_NAME = "NumbaCoreVision (NCV)"
 cv2.namedWindow(WIN_NAME)
 cv2.createTrackbar("Boost", WIN_NAME, 15, 50, lambda x: None)
 cv2.createTrackbar("Box", WIN_NAME, 85, 100, lambda x: None)
