@@ -1,3 +1,5 @@
+# NumbaCoreVision (NCV)
+**Ultra-Smooth Motion, Adaptive Vision, Dynamic Calibration, PIP Interface**
 <img width="650" height="649" alt="CHECK" src="https://github.com/user-attachments/assets/78d47872-e231-4441-bd27-3675428ad95a" />
 Система управления курсором Windows с помощью жестов рук,
 оптимизированная для работы в условиях сложного освещения. 
